@@ -11,10 +11,6 @@ tags:
   - Quiz
 ---
 
-## Graphic Bubble Sort Project
-
-O algoritmo de ordenação bubble sort agora pode ser visto em seu passo-a-passo de forma animada e dinâmica.
-
 ### Links
 
 <a href="https://codefeed-nine.vercel.app/" target="_blank">Site</a>
