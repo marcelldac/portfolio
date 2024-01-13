@@ -14,3 +14,7 @@ tags:
 ## Links
 
 - [Blog](https://nerd-navegante.vercel.app/)
+
+<a href="https://nerd-navegante.vercel.app/" target="_blank">Blog</a>
+<br>
+<a href="https://github.com/marcelldac/nerd_navegante" target="_blank">Código Fonte</a>

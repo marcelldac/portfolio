@@ -17,4 +17,6 @@ O algoritmo de ordenação bubble sort agora pode ser visto em seu passo-a-passo
 
 ### Links
 
-- [Código Fonte](https://github.com/marcelldac/sucelso-api)
+<a href="https://www.npmjs.com/package/q-coder" target="_blank">Use a lib</a>
+<br>
+<a href="https://github.com/marcelldac/sucelso-api" target="_blank">Código Fonte</a>

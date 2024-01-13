@@ -13,4 +13,4 @@ tags:
 
 ## Links
 
-- [Repositório](https://github.com/marcelldac/react-native-crash-guide)
+<a href="https://github.com/marcelldac/react-native-crash-guide" target="_blank">Código Fonte</a>

@@ -17,5 +17,6 @@ Newtion. Direto ao ponto, simples, minimalista. Sem distrações, agrupando o ne
 
 ### Links
 
-- [Newtion](https://newtion-jet.vercel.app/)
-- [Código Fonte](https://github.com/marcelldac/newtion)
+<a href="https://newtion-jet.vercel.app/" target="_blank">Site</a>
+<br>
+<a href="https://github.com/marcelldac/newtion" target="_blank">Código Fonte</a>

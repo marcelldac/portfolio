@@ -19,5 +19,6 @@ O site trás uma temática espacial.
 
 ### Links
 
-- [Site](https://dacti-xi.vercel.app/)
-- [Código Fonte](https://github.com/marcelldac/dacti)
+<a href="https://dacti-xi.vercel.app/" target="_blank">Site</a>
+<br>
+<a href="https://github.com/marcelldac/dacti" target="_blank">Código Fonte</a>

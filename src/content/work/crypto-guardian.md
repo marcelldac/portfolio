@@ -36,5 +36,6 @@ Retorna um item
 
 ### Links
 
-- [Documentação Postman](https://documenter.getpostman.com/view/27634188/2s9YeK4pvV)
-- [Código Fonte](https://github.com/marcelldac/crypto_guardian_api)
+<a href="https://documenter.getpostman.com/view/27634188/2s9YeK4pvV" target="_blank">Documentação da API</a>
+<br>
+<a href="https://github.com/marcelldac/crypto_guardian_api" target="_blank">Código Fonte</a>

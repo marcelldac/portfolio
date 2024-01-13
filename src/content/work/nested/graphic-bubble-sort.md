@@ -17,5 +17,6 @@ O algoritmo de ordenação bubble sort agora pode ser visto em seu passo-a-passo
 
 ### Links
 
-- [Site](https://graphic-bubble-sort.vercel.app/)
-- [Código Fonte](https://github.com/marcelldac/graphic-bubble-sort)
+<a href="https://graphic-bubble-sort.vercel.app/?target=_blank" target="_blank">Site</a>
+<br>
+<a href="https://github.com/marcelldac/graphic-bubble-sort" target="_blank">Código Fonte</a>
