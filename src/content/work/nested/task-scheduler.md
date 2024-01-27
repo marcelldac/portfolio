@@ -17,4 +17,4 @@ Um agendador de tarefas feito com asp net utilizando a arquitetura MVC. Crud pad
 
 ### Links
 
-<a href="https://github.com/marcelldac/task-scheduling-mvc-dotnet" target="_blank" alt="repositório do projeto no github">Código Fonte</a>
+<a href="https://github.com/marcelldac/task-scheduler-dotnet" target="_blank" alt="repositório do projeto no github">Código Fonte</a>
