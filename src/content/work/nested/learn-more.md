@@ -13,6 +13,4 @@ tags:
 
 ## Links
 
-<a href="https://graphic-bubble-sort.vercel.app/?target=_blank" target="_blank">Site</a>
-<br>
 <a href="https://github.com/marcelldac/learn-more-api" target="_blank">Código Fonte</a>
