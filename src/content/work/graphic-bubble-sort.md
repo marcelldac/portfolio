@@ -13,10 +13,10 @@ tags:
 
 ## Graphic Bubble Sort Project
 
-O algoritmo de ordenação bubble sort agora pode ser visto em seu passo-a-passo de forma animada e dinâmica.
+Uma nova versão do meu projeto de bubble sort, agora renovada com Next.js v14 + Typescript. Explore a ordenação visualmente através desta implementação atualizada, que combina a praticidade do Next.js com a clareza do Typescript.
 
 ### Links
 
-<a href="https://graphic-bubble-sort.vercel.app/?target=_blank" target="_blank">Site</a>
+<a href="https://graphic-bubble-sort.vercel.app/" target="_blank">Site</a>
 <br>
 <a href="https://github.com/marcelldac/graphic-bubble-sort" target="_blank">Código Fonte</a>
