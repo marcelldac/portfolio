@@ -2,7 +2,7 @@
 title: Graphic Bubble Sort
 publishDate: 2023-10-15 10:12:29
 img: /assets/graphic-bubble-sort.png
-img_alt: imagem com 'graphic-bubble-sort' escrito no meio e uma bolha no lado inferior direito da escrita.
+img_alt: print da interface gráfica do site graphic bubble sort
 description: |
   Um bubble sort (algoritmo de ordenação) visto de forma gráfica
 tags:
