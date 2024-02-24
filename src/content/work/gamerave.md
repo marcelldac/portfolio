@@ -10,6 +10,7 @@ tags:
   - Typescript
   - PostgreSQL
   - TypeORM
+  - Docker
 ---
 
 ## GameRave - Game Review API
