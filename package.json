@@ -8,6 +8,7 @@
     "build": "astro check && astro build",
     "preview": "astro preview",
     "astro": "astro",
+    "minor": "npm version minor",
     "cypress:web":"npx cypress open",
     "cypress:run":"npx cypress run --browser electron"
   },

@@ -13,7 +13,7 @@ tags:
 
 ## Quiz de C#
 
-Faça o quiz de c# da codefeed para saber em qual estágio de conhecimento na linguagem você está. No fim do quiz existem 2 bonûs para usufruir.
+Faça o quiz de c# da codefeed para saber em qual estágio de conhecimento na linguagem você está. Ao fim do Quiz, os usuários são presenteados com dois roadmaps sobre a linguagem.
 
 Bom quiz!
 
