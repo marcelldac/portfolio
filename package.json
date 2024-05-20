@@ -7,7 +7,9 @@
     "start": "astro dev",
     "build": "astro check && astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "cypress:web":"npx cypress open",
+    "cypress:run":"npx cypress run --browser electron"
   },
   "dependencies": {
     "@astrojs/check": "^0.3.4",
