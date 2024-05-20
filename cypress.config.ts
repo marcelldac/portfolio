@@ -4,7 +4,7 @@ export default defineConfig({
   chromeWebSecurity: false,
   e2e: {
     setupNodeEvents(on, config) { },
-    baseUrl: 'http://localhost:4321',
+    baseUrl: 'https://developermarcell.vercel.app/',
     testIsolation: false
   },
 });
