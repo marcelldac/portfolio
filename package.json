@@ -8,11 +8,16 @@
     "build": "astro check && astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "minor": "npm version minor"
+    "minor": "npm version minor",
+    "cypress:web":"npx cypress open",
+    "cypress:run":"npx cypress run --browser electron"
   },
   "dependencies": {
     "@astrojs/check": "^0.3.4",
     "astro": "^4.1.1",
     "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "cypress": "^13.9.0"
   }
 }
